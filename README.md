@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Filipe Madeira 👋
 
-<!--
-**FilipeMadeira13/filipemadeira13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Desenvolvedor Back-end apaixonado por tecnologia, com foco em Python.
 
-Here are some ideas to get you started:
+## Tecnologias que utilizo
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Python
+- Banco de dados: PostgreSQL, MongoDB
+- Ferramentas: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- LinkedIn: www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a
+- Email: cfilipemadeira@gmail.com
