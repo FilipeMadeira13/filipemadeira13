@@ -1,57 +1,74 @@
-<h1 align="center">Olá, eu sou Filipe Madeira👋</h1>
+<h1 align="center">Olá, sou o Filipe Madeira👋</h1>
 
 <p align="center">
-Desenvolvedor Backend | Python, Django, APIs | Análise de Dados em formação
+  <strong>Analista de Dados em formação | Desenvolvedor Python</strong>  
 </p>
 
 ---
 
-### 🧠 Sobre mim
-- 🔍 Buscando minha primeira oportunidade profissional em **Desenvolvimento Backend** ou **Análise de Dados**  
-- 💻 Focado em desenvolvimento de APIs com **Python, Django e SQL**  
-- 📊 Explorando também o mundo da **Análise de Dados**, automação e geração de insights  
-- 🚀 Sempre aprendendo, criando projetos e evoluindo como desenvolvedor  
-- 📍 Disponível para trabalho **Remoto** ou em **Fortaleza-CE e região**  
+### 👨‍💻 Sobre mim
+
+Sou desenvolvedor Python com foco em **Análise de Dados**. Tenho formação em Análise e Desenvolvimento de Sistemas (Unifor) e estudo todos os dias com disciplina e foco em aprendizado prático. Me interesso por tecnologia, inteligência artificial, música, ciência de dados e sempre busco aplicar soluções que transformam dados em decisões.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Habilidades Técnicas
 
-**Back-End:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
-
-**Análise de Dados:**  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-
-**Outros:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
+### 📂 Projetos em Destaque
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeMadeira13&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMadeira13&layout=compact&langs_count=7&theme=github_dark"/>
-</p>
+📀 [**Music Album System**](https://github.com/FilipeMadeira13/music-album-system-project)  
+Sistema de gerenciamento e análise de álbuns musicais, com integração à API do Spotify, análise de audio features e recomendações com Pandas e Plotly.
 
 ---
 
-### 🤝 Vamos nos conectar!
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a/)  
-- 💻 [Meus Repositórios no GitHub](https://github.com/FilipeMadeira13)  
+### 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas**  
+  Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: Junho de 2026
 
 ---
 
-<p align="center">
-Feito com ❤️ por Carlos Filipe
-</p>
+### 📜 Certificações e Bootcamps
+
+- [Vivo Back-End Python IA Developer — DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer)
+- [Formação Fundamentos em Python — DIO](https://web.dio.me/track/formacao-python-fundamentals)
+- [Fundamentos da Inteligência Artificial — DIO](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial)
+- [Lógica de Programação — DIO](https://web.dio.me/track/formacao-logica-de-programacao)
+- Microformações em Python, Git, APIs REST e SQL
+
+---
+
+### 🧠 Estudo Contínuo
+
+- 💻 Estudo **2 horas por dia** (exceto quintas: 4h)
+- 🧪 Prática com projetos reais e desafios
+- 📈 Foco em análise de dados com Python e bibliotecas modernas
+
+---
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/filipe-madeira/)
+- Email: **[cfilipemadeira@gmail.com]**
+- [DIO](https://web.dio.me/users/cfilipemadeira?tab=achievements)
+
+---
+
+<div align="center">
+  📊 Sempre em busca de transformar dados em decisões inteligentes.
+</div>
