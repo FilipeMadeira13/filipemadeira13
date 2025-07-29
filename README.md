@@ -49,7 +49,8 @@ Sistema de gerenciamento e análise de álbuns musicais, com integração à API
 - [Formação Fundamentos em Python — DIO](https://web.dio.me/track/formacao-python-fundamentals)
 - [Fundamentos da Inteligência Artificial — DIO](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial)
 - [Lógica de Programação — DIO](https://web.dio.me/track/formacao-logica-de-programacao)
-- [Formação Python Backend Developer](https://web.dio.me/track/formacao-python-backend-developer)
+- [Formação Python Backend Developer - DIO](https://web.dio.me/track/formacao-python-backend-developer)
+- [Formação ChatGPT For Devs - DIO](https://www.dio.me/curso-chat-gpt-for-devs?source=technologies-chatgpt&utm_campaign=Chat%20GPT)
 - Microformações em Python, Git, APIs REST e SQL
 
 ---
