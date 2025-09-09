@@ -12,6 +12,12 @@ Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Anál
 
 ---
 
+### 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas**  
+  Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: Junho de 2026
+---
+
 ### 🚀 Habilidades Técnicas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,12 +73,6 @@ Implementação clássica do jogo Pong em Python.
 - **Tech Stack:** Python, Pygame
 - **Features:** Jogabilidade clássica, controles responsivos
 
----
-
-### 🎓 Formação Acadêmica
-
-- **Análise e Desenvolvimento de Sistemas**  
-  Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: Junho de 2026
 #### [🧮 Calculadora Kivy](https://github.com/FilipeMadeira13/calculadora_kivy)
 Calculadora com interface gráfica moderna desenvolvida com Kivy.
 - **Tech Stack:** Python, Kivy
