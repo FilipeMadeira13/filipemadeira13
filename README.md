@@ -1,21 +1,21 @@
-<h1 align="center">Olá, sou o Filipe Madeira👋</h1>
+<h1 align="center">Olá, sou o Filipe Madeira 👋</h1>
 
 <p align="center">
-  <strong>Analista de Dados em formação | Desenvolvedor Python</strong>  
+  <strong>📊 Analista de Dados em formação | 🐍 Desenvolvedor Python</strong>  
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Análise e Desenvolvimento de Sistemas (Unifor), com previsão para conclusão em 2026 e estudo todos os dias com disciplina e foco em aprendizado prático. Me interesso por tecnologia, inteligência artificial, música, ciência de dados e sempre busco aplicar soluções que transformam dados em decisões.
+Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Análise e Desenvolvimento de Sistemas (Unifor), com previsão para conclusão em 2026 e estudo todos os dias com disciplina e foco em aprendizado prático. Me interesso por tecnologia 💻, inteligência artificial 🤖, música 🎵, ciência de dados 📈 e sempre busco aplicar soluções que transformam dados em decisões.
 
 ---
 
 ### 🎓 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas**  
-  Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: Junho de 2026
+  Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: Junho de 2026 🎯
 ---
 
 ### 🚀 Habilidades Técnicas
@@ -42,99 +42,99 @@ Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Anál
 #### [🔗 API Bancária - FastAPI](https://github.com/FilipeMadeira13/api-bancaria-fastapi)
 Sistema bancário completo desenvolvido com FastAPI, incluindo operações de conta, transações e autenticação.
 - **Tech Stack:** Python, FastAPI, SQLAlchemy
-- **Features:** CRUD completo, autenticação, documentação automática
+- **Features:** CRUD completo, autenticação, documentação automática ✨
 
 #### [📝 API REST de Tarefas (To-Do)](https://github.com/FilipeMadeira13/API_REST_Tarefas_-To-Do-)
 API RESTful para gerenciamento de tarefas com operações CRUD completas.
 - **Tech Stack:** Python, FastAPI
-- **Features:** Gerenciamento de tarefas, status de completude
+- **Features:** Gerenciamento de tarefas, status de completude ✅
 
 #### [🛍️ API de Produtos - Node.js](https://github.com/FilipeMadeira13/nodejs-products-api)
 API para gerenciamento de produtos desenvolvida em Node.js.
 - **Tech Stack:** JavaScript, Node.js
-- **Features:** CRUD de produtos, validações
+- **Features:** CRUD de produtos, validações 🔍
 
 ### 📊 **Data Science & Analytics**
 
 #### [🚢 Análise do Dataset Titanic](https://github.com/FilipeMadeira13/Titanic-Data-Analysis)
 Análise completa dos dados do Titanic com visualizações e insights sobre sobrevivência.
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-- **Features:** Análise exploratória, visualizações, insights estatísticos
+- **Features:** Análise exploratória, visualizações, insights estatísticos 📈
 
 #### [🎵 Sistema de Gerenciamento de Álbuns](https://github.com/FilipeMadeira13/music-album-system-project)
 Projeto de análise e gerenciamento de dados de álbuns musicais.
 - **Tech Stack:** Python, Jupyter Notebook
-- **Features:** Análise de dados musicais, relatórios
+- **Features:** Análise de dados musicais, relatórios 📋
 
 ### 🎮 **Aplicações Desktop & Games**
 
 #### [🏓 Pong Game](https://github.com/FilipeMadeira13/pong_game)
 Implementação clássica do jogo Pong em Python.
 - **Tech Stack:** Python, Pygame
-- **Features:** Jogabilidade clássica, controles responsivos
+- **Features:** Jogabilidade clássica, controles responsivos ⚡
 
 #### [🧮 Calculadora Kivy](https://github.com/FilipeMadeira13/calculadora_kivy)
 Calculadora com interface gráfica moderna desenvolvida com Kivy.
 - **Tech Stack:** Python, Kivy
-- **Features:** Interface intuitiva, operações matemáticas básicas
+- **Features:** Interface intuitiva, operações matemáticas básicas 🔢
 
 ### 🌐 **Desenvolvimento Web**
 
 #### [🤖 Chat GPT Clone](https://github.com/FilipeMadeira13/chat-gpt-clone)
 Interface de chat inspirada no ChatGPT com funcionalidades de IA.
 - **Tech Stack:** JavaScript, HTML, CSS
-- **Features:** Interface conversacional, integração com APIs
+- **Features:** Interface conversacional, integração com APIs 💬
 
 #### [🌐 Django Blog](https://github.com/FilipeMadeira13/mysite_dj_dio)
 Blog desenvolvido com Django durante curso da DIO.
 - **Tech Stack:** Python, Django
-- **Features:** Sistema de posts, interface administrativa
+- **Features:** Sistema de posts, interface administrativa 📝
 
 ### 🛠️ **Utilidades & Ferramentas**
 
 #### [📋 Validador de CPF](https://github.com/FilipeMadeira13/simple_cpf_validator)
 Ferramenta simples e eficiente para validação de CPF.
 - **Tech Stack:** Python
-- **Features:** Validação algorítmica, interface limpa
+- **Features:** Validação algorítmica, interface limpa ✔️
 
 ### 🤖 **Inteligência Artificial**
 
 #### [📚 E-book com IA](https://github.com/FilipeMadeira13/ebook-with-ia)
 Projeto de criação de e-book utilizando ferramentas de IA generativa.
-- **Features:** Conteúdo gerado por IA, design automatizado
+- **Features:** Conteúdo gerado por IA, design automatizado 🎨
 
 #### [📰 Artigo com IA](https://github.com/FilipeMadeira13/artigo-ai)
 Geração de artigos utilizando inteligência artificial.
-- **Features:** Geração de conteúdo, otimização de texto
+- **Features:** Geração de conteúdo, otimização de texto 📖
 
 ---
 
 ### 📜 Certificações e Bootcamps
 
-- [Vivo Back-End Python IA Developer — DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer)
-- [Formação Fundamentos em Python — DIO](https://web.dio.me/track/formacao-python-fundamentals)
-- [Fundamentos da Inteligência Artificial — DIO](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial)
-- [Lógica de Programação — DIO](https://web.dio.me/track/formacao-logica-de-programacao)
-- [Formação Python Backend Developer - DIO](https://web.dio.me/track/formacao-python-backend-developer)
-- [Formação ChatGPT For Devs - DIO](https://www.dio.me/curso-chat-gpt-for-devs?source=technologies-chatgpt&utm_campaign=Chat%20GPT)
-- Microformações em Python, Git, APIs REST e SQL
+- [Vivo Back-End Python IA Developer — DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer) 🏆
+- [Formação Fundamentos em Python — DIO](https://web.dio.me/track/formacao-python-fundamentals) 🐍
+- [Fundamentos da Inteligência Artificial — DIO](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial) 🧠
+- [Lógica de Programação — DIO](https://web.dio.me/track/formacao-logica-de-programacao) 💭
+- [Formação Python Backend Developer - DIO](https://web.dio.me/track/formacao-python-backend-developer) 🔧
+- [Formação ChatGPT For Devs - DIO](https://www.dio.me/curso-chat-gpt-for-devs?source=technologies-chatgpt&utm_campaign=Chat%20GPT) 💡
+- Microformações em Python, Git, APIs REST e SQL 📚
 
 ---
 
 ## 📚 Atualmente Aprendendo
 
 - 🏗️ **Estruturas de Dados Avançadas** - Aprofundando conhecimentos em:
-  - Árvores (AVL, Red-Black, B-Trees)
-  - Grafos e algoritmos de busca/ordenação
-  - Hash Tables e suas otimizações
-  - Heaps e Priority Queues
-  - Estruturas de dados para alta performance
+  - Árvores (AVL, Red-Black, B-Trees) 🌳
+  - Grafos e algoritmos de busca/ordenação 🔍
+  - Hash Tables e suas otimizações ⚡
+  - Heaps e Priority Queues 📊
+  - Estruturas de dados para alta performance 🚀
 
 ---
 
 ## 📫 Vamos nos conectar!
 
-Estou sempre interessado em colaborar em projetos interessantes e conhecer outros desenvolvedores. Não hesite em entrar em contato!
+Estou sempre interessado em colaborar em projetos interessantes e conhecer outros desenvolvedores. Não hesite em entrar em contato! 🤝
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Estou sempre interessado em colaborar em projetos interessantes e conhecer outro
 ---
 <div align="center">
   
-*"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
+*"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."* 🌟
 
 ⭐️ **Obrigado pela visita!** ⭐️
 
