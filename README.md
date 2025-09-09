@@ -31,8 +31,41 @@ Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Anál
 
 ### 📂 Projetos em Destaque
 
-📀 [**Music Album System**](https://github.com/FilipeMadeira13/music-album-system-project)  
-Sistema de gerenciamento e análise de álbuns musicais, com integração à API do Spotify, análise de audio features e recomendações com Pandas e Plotly.
+### 🏦 **APIs e Backend**
+
+#### [🔗 API Bancária - FastAPI](https://github.com/FilipeMadeira13/api-bancaria-fastapi)
+Sistema bancário completo desenvolvido com FastAPI, incluindo operações de conta, transações e autenticação.
+- **Tech Stack:** Python, FastAPI, SQLAlchemy
+- **Features:** CRUD completo, autenticação, documentação automática
+
+#### [📝 API REST de Tarefas (To-Do)](https://github.com/FilipeMadeira13/API_REST_Tarefas_-To-Do-)
+API RESTful para gerenciamento de tarefas com operações CRUD completas.
+- **Tech Stack:** Python, FastAPI
+- **Features:** Gerenciamento de tarefas, status de completude
+
+#### [🛍️ API de Produtos - Node.js](https://github.com/FilipeMadeira13/nodejs-products-api)
+API para gerenciamento de produtos desenvolvida em Node.js.
+- **Tech Stack:** JavaScript, Node.js
+- **Features:** CRUD de produtos, validações
+
+### 📊 **Data Science & Analytics**
+
+#### [🚢 Análise do Dataset Titanic](https://github.com/FilipeMadeira13/Titanic-Data-Analysis)
+Análise completa dos dados do Titanic com visualizações e insights sobre sobrevivência.
+- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+- **Features:** Análise exploratória, visualizações, insights estatísticos
+
+#### [🎵 Sistema de Gerenciamento de Álbuns](https://github.com/FilipeMadeira13/music-album-system-project)
+Projeto de análise e gerenciamento de dados de álbuns musicais.
+- **Tech Stack:** Python, Jupyter Notebook
+- **Features:** Análise de dados musicais, relatórios
+
+### 🎮 **Aplicações Desktop & Games**
+
+#### [🏓 Pong Game](https://github.com/FilipeMadeira13/pong_game)
+Implementação clássica do jogo Pong em Python.
+- **Tech Stack:** Python, Pygame
+- **Features:** Jogabilidade clássica, controles responsivos
 
 ---
 
@@ -40,6 +73,39 @@ Sistema de gerenciamento e análise de álbuns musicais, com integração à API
 
 - **Análise e Desenvolvimento de Sistemas**  
   Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: Junho de 2026
+#### [🧮 Calculadora Kivy](https://github.com/FilipeMadeira13/calculadora_kivy)
+Calculadora com interface gráfica moderna desenvolvida com Kivy.
+- **Tech Stack:** Python, Kivy
+- **Features:** Interface intuitiva, operações matemáticas básicas
+
+### 🌐 **Desenvolvimento Web**
+
+#### [🤖 Chat GPT Clone](https://github.com/FilipeMadeira13/chat-gpt-clone)
+Interface de chat inspirada no ChatGPT com funcionalidades de IA.
+- **Tech Stack:** JavaScript, HTML, CSS
+- **Features:** Interface conversacional, integração com APIs
+
+#### [🌐 Django Blog](https://github.com/FilipeMadeira13/mysite_dj_dio)
+Blog desenvolvido com Django durante curso da DIO.
+- **Tech Stack:** Python, Django
+- **Features:** Sistema de posts, interface administrativa
+
+### 🛠️ **Utilidades & Ferramentas**
+
+#### [📋 Validador de CPF](https://github.com/FilipeMadeira13/simple_cpf_validator)
+Ferramenta simples e eficiente para validação de CPF.
+- **Tech Stack:** Python
+- **Features:** Validação algorítmica, interface limpa
+
+### 🤖 **Inteligência Artificial**
+
+#### [📚 E-book com IA](https://github.com/FilipeMadeira13/ebook-with-ia)
+Projeto de criação de e-book utilizando ferramentas de IA generativa.
+- **Features:** Conteúdo gerado por IA, design automatizado
+
+#### [📰 Artigo com IA](https://github.com/FilipeMadeira13/artigo-ai)
+Geração de artigos utilizando inteligência artificial.
+- **Features:** Geração de conteúdo, otimização de texto
 
 ---
 
