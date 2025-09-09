@@ -121,11 +121,14 @@ Geração de artigos utilizando inteligência artificial.
 
 ---
 
-### 🧠 Estudo Contínuo
+## 📚 Atualmente Aprendendo
 
-- 💻 Estudo **2 horas por dia** (exceto quintas: 4h)
-- 🧪 Prática com projetos reais e desafios
-- 📈 Foco em análise de dados com Python e bibliotecas modernas
+- 🏗️ **Estruturas de Dados Avançadas** - Aprofundando conhecimentos em:
+  - Árvores (AVL, Red-Black, B-Trees)
+  - Grafos e algoritmos de busca/ordenação
+  - Hash Tables e suas otimizações
+  - Heaps e Priority Queues
+  - Estruturas de dados para alta performance
 
 ---
 
