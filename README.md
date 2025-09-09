@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor Python com foco em **Análise de Dados**. Tenho formação em Análise e Desenvolvimento de Sistemas (Unifor) e estudo todos os dias com disciplina e foco em aprendizado prático. Me interesso por tecnologia, inteligência artificial, música, ciência de dados e sempre busco aplicar soluções que transformam dados em decisões.
+Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Análise e Desenvolvimento de Sistemas (Unifor), com previsão para conclusão em 2026 e estudo todos os dias com disciplina e foco em aprendizado prático. Me interesso por tecnologia, inteligência artificial, música, ciência de dados e sempre busco aplicar soluções que transformam dados em decisões.
 
 ---
 
