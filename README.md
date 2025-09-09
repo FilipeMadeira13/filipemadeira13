@@ -57,11 +57,20 @@ API para gerenciamento de produtos desenvolvida em Node.js.
 ### 📊 **Data Science & Analytics**
 
 #### [🚢 Análise do Dataset Titanic](https://github.com/FilipeMadeira13/Titanic-Data-Analysis)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Latest-purple?style=flat-square&logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
 Análise completa dos dados do Titanic com visualizações e insights sobre sobrevivência.
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
 - **Features:** Análise exploratória, visualizações, insights estatísticos 📈
 
 #### [🎵 Sistema de Gerenciamento de Álbuns](https://github.com/FilipeMadeira13/music-album-system-project)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 Projeto de análise e gerenciamento de dados de álbuns musicais.
 - **Tech Stack:** Python, Jupyter Notebook
 - **Features:** Análise de dados musicais, relatórios 📋
