@@ -12,6 +12,20 @@ Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Anál
 
 ---
 
+### 🚀 Minha Jornada
+
+Minha entrada na tecnologia nasceu da curiosidade e da vontade de transformar ideias em soluções reais. Sempre fui apaixonado por **música, tecnologia e dados**, e percebi que a programação unia todos esses interesses em um só caminho. 🎶📊💻
+
+Comecei explorando o **Python**, onde descobri o poder de automatizar processos e dar vida a projetos práticos. Com o tempo, aprofundei meus estudos entendendo como números podem contar histórias e gerar impacto no mundo real.  
+
+O que me move é a **busca constante por evolução**: estudo todos os dias, aplico o que aprendo em projetos pessoais e compartilho conhecimento sempre que posso. ✨  
+Acredito que a tecnologia é uma ferramenta poderosa, mas são as pessoas — com suas ideias e criatividade — que realmente fazem a diferença. 🌟  
+
+Meu diferencial está na **disciplina e na visão prática**: gosto de aprender criando, transformando teoria em projetos tangíveis que resolvem problemas e mostram resultados. Para mim, cada linha de código é um passo rumo a transformar dados em decisões inteligentes. ⚡  
+
+---
+
+
 ### 🎓 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas**  
