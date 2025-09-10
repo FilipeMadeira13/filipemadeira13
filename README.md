@@ -48,10 +48,6 @@ Meu diferencial está na **disciplina e na visão prática**: gosto de aprender 
 
 ---
 
-[![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMadeira13)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=FilipeMadeira13)](https://git.io/streak-stats)
-
----
-
 ### 📂 Projetos em Destaque
 
 ### 🏦 **APIs e Backend**
@@ -170,6 +166,8 @@ Estou sempre interessado em colaborar em projetos interessantes e conhecer outro
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfilipemadeira@gmail.com)
 
 </div>
+
+[![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMadeira13)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=FilipeMadeira13)](https://git.io/streak-stats)
 
 ---
 <div align="center">
