@@ -48,7 +48,7 @@ Meu diferencial está na **disciplina e na visão prática**: gosto de aprender 
 
 ---
 
-[![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMadeira13)](https://github.com/anuraghazra/github-readme-stats)
+[![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMadeira13)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=FilipeMadeira13)](https://git.io/streak-stats)
 
 ---
 
