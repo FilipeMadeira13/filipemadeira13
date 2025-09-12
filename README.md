@@ -72,11 +72,10 @@ API para gerenciamento de produtos desenvolvida em Node.js.
 #### [🚢 Análise do Dataset Titanic](https://github.com/FilipeMadeira13/Titanic-Data-Analysis)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Latest-purple?style=flat-square&logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 Análise completa dos dados do Titanic com visualizações e insights sobre sobrevivência.
-- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+- **Tech Stack:** Python, Pandas
 - **Features:** Análise exploratória, visualizações, insights estatísticos 📈
 
 #### [🎵 Sistema de Gerenciamento de Álbuns](https://github.com/FilipeMadeira13/music-album-system-project)
@@ -92,7 +91,7 @@ Projeto de análise e gerenciamento de dados de álbuns musicais.
 
 #### [🏓 Pong Game](https://github.com/FilipeMadeira13/pong_game)
 Implementação clássica do jogo Pong em Python.
-- **Tech Stack:** Python, Pygame
+- **Tech Stack:** Python, Kivy
 - **Features:** Jogabilidade clássica, controles responsivos ⚡
 
 #### [🧮 Calculadora Kivy](https://github.com/FilipeMadeira13/calculadora_kivy)
