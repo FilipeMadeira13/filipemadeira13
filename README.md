@@ -132,6 +132,7 @@ Geração de artigos utilizando inteligência artificial.
 
 ### 📜 Certificações e Bootcamps
 
+- [Data Science: explorando e analisando dados](https://cursos.alura.com.br/user/cfilipemadeira/course/data-science-explorando-analisando-dados/certificate)
 - [Vivo Back-End Python IA Developer — DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer) 🏆
 - [Formação Fundamentos em Python — DIO](https://web.dio.me/track/formacao-python-fundamentals) 🐍
 - [Fundamentos da Inteligência Artificial — DIO](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial) 🧠
