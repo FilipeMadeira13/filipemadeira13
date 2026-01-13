@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Filipe Madeira 👋</h1>
 
 <p align="center">
-  <strong>📊 Analista de Dados em formação | 🐍 Desenvolvedor Python</strong>  
+  <strong>📊 Cientista de Dados | 🐍 Desenvolvedor Python</strong>  
 </p>
 
 ---
