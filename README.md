@@ -1,179 +1,191 @@
-<h1 align="center">Olá, sou o Filipe Madeira 👋</h1>
+<h1 align="center">Olá, eu sou Filipe Madeira 👋</h1>
 
 <p align="center">
-  <strong>📊 Cientista de Dados | 🐍 Desenvolvedor Python</strong>  
+<strong>📊 Data Analyst | Python Developer</strong>
+</p>
+
+<p align="center">
+Transformando dados em insights através de análise exploratória, visualização e projetos práticos em Python.
 </p>
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+# 👨‍💻 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR)** e tenho foco em **análise de dados utilizando Python, SQL e visualização de dados**.
+
+Tenho interesse especial em:
+
+* análise exploratória de dados
+* visualização e storytelling com dados
+* estatística aplicada
+* construção de dashboards
+* desenvolvimento de APIs para manipulação de dados
+
+Busco constantemente transformar dados em **informação útil para tomada de decisão**, desenvolvendo projetos práticos com datasets reais.
 
 ---
 
-### 👨‍💻 Sobre mim
+# 🧰 Tecnologias e Ferramentas
 
-Sou desenvolvedor Python com foco em **Análise de Dados**. Estou cursando Análise e Desenvolvimento de Sistemas (Unifor), com previsão para conclusão em 2026 e estudo todos os dias com disciplina e foco em aprendizado prático. Me interesso por tecnologia 💻, inteligência artificial 🤖, música 🎵, ciência de dados 📈 e sempre busco aplicar soluções que transformam dados em decisões.
-
----
-
-### 🚀 Minha Jornada
-
-Minha entrada na tecnologia nasceu da curiosidade e da vontade de transformar ideias em soluções reais. Sempre fui apaixonado por **música, tecnologia e dados**, e percebi que a programação unia todos esses interesses em um só caminho. 🎶📊💻
-
-Comecei explorando o **Python**, onde descobri o poder de automatizar processos e dar vida a projetos práticos. Com o tempo, aprofundei meus estudos entendendo como números podem contar histórias e gerar impacto no mundo real.  
-
-O que me move é a **busca constante por evolução**: estudo todos os dias, aplico o que aprendo em projetos pessoais e compartilho conhecimento sempre que posso. ✨  
-Acredito que a tecnologia é uma ferramenta poderosa, mas são as pessoas — com suas ideias e criatividade — que realmente fazem a diferença. 🌟  
-
-Meu diferencial está na **disciplina e na visão prática**: gosto de aprender criando, transformando teoria em projetos tangíveis que resolvem problemas e mostram resultados. Para mim, cada linha de código é um passo rumo a transformar dados em decisões inteligentes. ⚡  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1E4E79?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
+# 📊 Projetos em Destaque
 
-### 🎓 Formação Acadêmica
+## 📊 Análise da Distribuição do PIB e Indicadores Educacionais no Brasil
 
-- **Análise e Desenvolvimento de Sistemas**  
-  Universidade de Fortaleza (UNIFOR) — Previsão de conclusão: Junho de 2026 🎯
+🔗 https://github.com/FilipeMadeira13/Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil
 
----
+Projeto de **análise exploratória de dados econômicos e educacionais do Brasil**, investigando a distribuição do PIB entre estados e regiões e sua relação com indicadores educacionais.
 
-### 📂 Projetos em Destaque
+**Principais análises**
 
-### 🏦 **APIs e Backend**
+* distribuição do PIB por estado e região
+* participação econômica regional
+* análise de setores econômicos
+* relação entre indicadores educacionais e desenvolvimento econômico
 
-#### [🔗 API Bancária - FastAPI](https://github.com/FilipeMadeira13/api-bancaria-fastapi)
-Sistema bancário completo desenvolvido com FastAPI, incluindo operações de conta, transações e autenticação.
-- **Tech Stack:** Python, FastAPI, SQLAlchemy
-- **Features:** CRUD completo, autenticação, documentação automática ✨
+**Tecnologias**
 
-#### [📝 API REST de Tarefas (To-Do)](https://github.com/FilipeMadeira13/API_REST_Tarefas_-To-Do-)
-API RESTful para gerenciamento de tarefas com operações CRUD completas.
-- **Tech Stack:** Python, FastAPI
-- **Features:** Gerenciamento de tarefas, status de completude ✅
-
-#### [🛍️ API de Produtos - Node.js](https://github.com/FilipeMadeira13/nodejs-products-api)
-API para gerenciamento de produtos desenvolvida em Node.js.
-- **Tech Stack:** JavaScript, Node.js
-- **Features:** CRUD de produtos, validações 🔍
-
-### 📊 **Data Science & Analytics**
-
-#### [🚢 Análise do Dataset Titanic](https://github.com/FilipeMadeira13/Titanic-Data-Analysis)
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Latest-purple?style=flat-square&logo=pandas)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-
-Análise completa dos dados do Titanic com visualizações e insights sobre sobrevivência.
-- **Tech Stack:** Python, Pandas
-- **Features:** Análise exploratória, visualizações, insights estatísticos 📈
-
-#### [🎵 Sistema de Gerenciamento de Álbuns](https://github.com/FilipeMadeira13/music-album-system-project)
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-
-Projeto de análise e gerenciamento de dados de álbuns musicais.
-- **Tech Stack:** Python, Jupyter Notebook
-- **Features:** Análise de dados musicais, relatórios 📋
-
-### 🎮 **Aplicações Desktop & Games**
-
-#### [🏓 Pong Game](https://github.com/FilipeMadeira13/pong_game)
-Implementação clássica do jogo Pong em Python.
-- **Tech Stack:** Python, Kivy
-- **Features:** Jogabilidade clássica, controles responsivos ⚡
-
-#### [🧮 Calculadora Kivy](https://github.com/FilipeMadeira13/calculadora_kivy)
-Calculadora com interface gráfica moderna desenvolvida com Kivy.
-- **Tech Stack:** Python, Kivy
-- **Features:** Interface intuitiva, operações matemáticas básicas 🔢
-
-### 🌐 **Desenvolvimento Web**
-
-#### [🤖 Chat GPT Clone](https://github.com/FilipeMadeira13/chat-gpt-clone)
-Interface de chat inspirada no ChatGPT com funcionalidades de IA.
-- **Tech Stack:** JavaScript, HTML, CSS
-- **Features:** Interface conversacional, integração com APIs 💬
-
-#### [🌐 Django Blog](https://github.com/FilipeMadeira13/mysite_dj_dio)
-Blog desenvolvido com Django durante curso da DIO.
-- **Tech Stack:** Python, Django
-- **Features:** Sistema de posts, interface administrativa 📝
-
-### 🛠️ **Utilidades & Ferramentas**
-
-#### [📋 Validador de CPF](https://github.com/FilipeMadeira13/simple_cpf_validator)
-Ferramenta simples e eficiente para validação de CPF.
-- **Tech Stack:** Python
-- **Features:** Validação algorítmica, interface limpa ✔️
-
-### 🤖 **Inteligência Artificial**
-
-#### [📚 E-book com IA](https://github.com/FilipeMadeira13/ebook-with-ia)
-Projeto de criação de e-book utilizando ferramentas de IA generativa.
-- **Features:** Conteúdo gerado por IA, design automatizado 🎨
-
-#### [📰 Artigo com IA](https://github.com/FilipeMadeira13/artigo-ai)
-Geração de artigos utilizando inteligência artificial.
-- **Features:** Geração de conteúdo, otimização de texto 📖
+Python • Pandas • Matplotlib • Seaborn
 
 ---
 
-### 📜 Certificações e Bootcamps
+## 🛒 Análise de Produtos – E-commerce Olist
 
-- [Data Science: explorando e analisando dados](https://cursos.alura.com.br/user/cfilipemadeira/course/data-science-explorando-analisando-dados/certificate)
-- [Vivo Back-End Python IA Developer — DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer) 🏆
-- [Formação Fundamentos em Python — DIO](https://web.dio.me/track/formacao-python-fundamentals) 🐍
-- [Fundamentos da Inteligência Artificial — DIO](https://web.dio.me/track/formacao-fundamentos-de-inteligencia-artificial) 🧠
-- [Lógica de Programação — DIO](https://web.dio.me/track/formacao-logica-de-programacao) 💭
-- [Formação Python Backend Developer - DIO](https://web.dio.me/track/formacao-python-backend-developer) 🔧
-- [Formação ChatGPT For Devs - DIO](https://www.dio.me/curso-chat-gpt-for-devs?source=technologies-chatgpt&utm_campaign=Chat%20GPT) 💡
-- Microformações em Python, Git, APIs REST e SQL 📚
+🔗 https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist
 
----
+Projeto de análise utilizando **datasets reais da plataforma brasileira de e-commerce Olist**, focado em integração de dados, limpeza e geração de indicadores.
 
-## 📚 Atualmente Aprendendo
+**Principais etapas**
 
-- 🏗️ **Estruturas de Dados Avançadas** - Aprofundando conhecimentos em:
-  - Árvores (AVL, Red-Black, B-Trees) 🌳
-  - Grafos e algoritmos de busca/ordenação 🔍
-  - Hash Tables e suas otimizações ⚡
-  - Heaps e Priority Queues 📊
-  - Estruturas de dados para alta performance 🚀
+* tratamento de dados reais
+* integração de múltiplos datasets
+* criação de métricas derivadas
+* análise de desempenho por categoria
+
+**Tecnologias**
+
+Python • Pandas • Jupyter Notebook
 
 ---
 
-## 📫 Vamos nos conectar!
+## 📈 Dashboard de Vendas com Dash & Plotly
 
-Estou sempre interessado em colaborar em projetos interessantes e conhecer outros desenvolvedores. Não hesite em entrar em contato! 🤝
+🔗 https://github.com/FilipeMadeira13/dashboard_de_vendas_com_dash_-_plotly
+
+Dashboard interativo para visualização de vendas desenvolvido com **Plotly Dash**, permitindo análise dinâmica por região, produto e período.
+
+**Funcionalidades**
+
+* visualização interativa de vendas
+* filtros por região
+* gráficos dinâmicos
+* arquitetura inspirada em Clean Architecture
+
+**Tecnologias**
+
+Python • Dash • Plotly • Pandas
+
+---
+
+## 🎵 Análise de Avaliações Musicais (Rate Your Music)
+
+🔗 https://github.com/FilipeMadeira13/exploring_rym_database
+
+Análise exploratória de um dataset de **avaliações de álbuns musicais**, investigando padrões de rating, artistas mais bem avaliados e comportamento da comunidade.
+
+**Principais análises**
+
+* distribuição das avaliações
+* evolução das notas ao longo do tempo
+* artistas e gêneros mais bem avaliados
+* correlação entre número de avaliações e média de rating
+
+**Tecnologias**
+
+Python • Pandas • Matplotlib • Seaborn
+
+---
+
+## 🎶 Sistema de Gerenciamento de Álbuns Musicais
+
+🔗 https://github.com/FilipeMadeira13/music-album-system-project
+
+Projeto autoral para **armazenamento, manipulação e análise de dados musicais**, servindo como base para análises e futuros sistemas de recomendação.
+
+**Tecnologias**
+
+Python • Pandas • SQLite • Jupyter Notebook
+
+---
+
+## 🏦 API Bancária com FastAPI
+
+🔗 https://github.com/FilipeMadeira13/api-bancaria-fastapi
+
+API backend que simula operações bancárias como criação de contas, transações e consulta de extrato.
+
+**Tecnologias**
+
+Python • FastAPI • SQLAlchemy • SQLite
+
+---
+
+# 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas**
+Universidade de Fortaleza — UNIFOR
+
+---
+
+# 📜 Certificações
+
+* Data Science: Explorando e Analisando Dados — Alura
+* Python Backend Developer — DIO
+* Fundamentos de Python — DIO
+* Fundamentos de Inteligência Artificial — DIO
+* Lógica de Programação — DIO
+
+---
+
+# 📚 Atualmente estudando
+
+* Estatística aplicada à análise de dados
+* Testes de hipótese
+* Probabilidade e inferência estatística
+* SQL para análise de dados
+* Visualização de dados avançada
+
+---
+
+# 📫 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cfilipemadeira/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FilipeMadeira13)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfilipemadeira@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
+
+[GitHub](https://github.com/FilipeMadeira13)
+
+Email: **[cfilipemadeira@gmail.com](mailto:cfilipemadeira@gmail.com)**
 
 </div>
 
-[![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMadeira13)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=FilipeMadeira13)](https://git.io/streak-stats)
-
 ---
-<div align="center">
-  
-*"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."* 🌟
 
-⭐️ **Obrigado pela visita!** ⭐️
+<div align="center">
+
+⭐ Obrigado por visitar meu perfil!
 
 </div>
