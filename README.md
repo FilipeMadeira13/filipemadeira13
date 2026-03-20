@@ -5,18 +5,6 @@
 </p>
 
 <p align="center">
-Transformando dados em insights através de análise exploratória, visualização e projetos práticos em Python.
-</p>
-
----
-
-<h1 align="center">Olá, eu sou Filipe Madeira 👋</h1>
-
-<p align="center">
-<strong>📊 Data Analyst | Python Developer</strong>
-</p>
-
-<p align="center">
 Transformando dados em insights através de análise exploratória, estatística aplicada e projetos práticos em Python.
 </p>
 
