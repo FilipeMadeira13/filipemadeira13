@@ -1,11 +1,11 @@
 <h1 align="center">Filipe Madeira</h1>
 
 <p align="center">
-<strong>Data Analyst | Python Developer</strong>
+<strong>Data Analyst | Python | SQL | Estatística Aplicada</strong>
 </p>
 
 <p align="center">
-Transformando dados em insights por meio de análise exploratória, estatística aplicada e soluções orientadas a dados.
+Transformando dados em insights por meio de análise exploratória, inferência estatística e suporte à tomada de decisão.
 </p>
 
 ---
@@ -14,30 +14,43 @@ Transformando dados em insights por meio de análise exploratória, estatística
 
 Sou formado em **Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR)** e atuo com **análise de dados utilizando Python, SQL e visualização de dados**.
 
-Tenho foco em:
+Tenho experiência prática no desenvolvimento de projetos que envolvem:
 
-- análise exploratória de dados  
-- estatística aplicada e testes de hipótese  
-- storytelling com dados  
-- construção de dashboards  
-- desenvolvimento de soluções orientadas a dados  
+- exploração e tratamento de dados reais  
+- aplicação de **testes de hipótese e inferência estatística**  
+- construção de **dashboards interativos**  
+- geração de insights para suporte à decisão  
+- organização de código com boas práticas  
 
-Meu objetivo é transformar dados em **decisões estratégicas**, conectando análise quantitativa ao contexto de negócio.
+Meu foco é utilizar dados para **validar hipóteses, medir impacto e apoiar decisões estratégicas**.
 
 ---
 
-## Tecnologias e Ferramentas
+## Stack Técnica
+
+**Linguagens e Manipulação de Dados**  
+Python, SQL, Pandas, NumPy  
+
+**Análise e Estatística**  
+Testes de hipótese, inferência estatística, intervalos de confiança, análise exploratória (EDA)  
+
+**Visualização de Dados**  
+Matplotlib, Seaborn, Plotly, Dash  
+
+**Ferramentas e Backend**  
+Git, FastAPI  
+
+---
+
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1E4E79?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -49,7 +62,7 @@ Meu objetivo é transformar dados em **decisões estratégicas**, conectando an�
 Análise estatística aplicada para avaliar o impacto de mudanças na experiência do cliente.
 
 **Destaques:**
-- teste t pareado para validação de hipóteses  
+- teste t pareado para comparação de cenários  
 - interpretação de p-valor e intervalos de confiança  
 - cálculo de effect size  
 - suporte à tomada de decisão baseada em dados  
@@ -59,11 +72,11 @@ Análise estatística aplicada para avaliar o impacto de mudanças na experiênc
 ### Dashboard de Vendas com Dash & Plotly  
 🔗 https://github.com/FilipeMadeira13/dashboard_de_vendas_com_dash_-_plotly  
 
-Dashboard interativo para análise de vendas com filtros dinâmicos por região, produto e período.
+Dashboard interativo para análise de desempenho de vendas.
 
 **Destaques:**
-- construção de visualizações interativas  
-- exploração dinâmica de dados  
+- visualizações interativas com filtros dinâmicos  
+- exploração de dados por região, produto e período  
 - apoio à análise gerencial  
 
 ---
@@ -71,12 +84,12 @@ Dashboard interativo para análise de vendas com filtros dinâmicos por região,
 ### Análise de Produtos – E-commerce Olist  
 🔗 https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist  
 
-Projeto com dados reais envolvendo limpeza, transformação e geração de métricas de negócio.
+Projeto com dados reais envolvendo limpeza, transformação e análise de dados de e-commerce.
 
 **Destaques:**
 - data wrangling com dados complexos  
 - integração de múltiplas fontes  
-- criação de indicadores relevantes  
+- criação de métricas de negócio  
 
 ---
 
@@ -97,12 +110,12 @@ Análise de padrões de avaliação e comportamento de usuários em datasets mus
 ### API Bancária com FastAPI  
 🔗 https://github.com/FilipeMadeira13/api-bancaria-fastapi  
 
-API backend simulando operações bancárias com foco em organização de código e arquitetura.
+API backend simulando operações bancárias com foco em organização e arquitetura.
 
 **Destaques:**
-- estrutura baseada em boas práticas  
-- separação de camadas  
-- uso de FastAPI para construção de APIs modernas  
+- estruturação de projeto em camadas  
+- desenvolvimento de endpoints com FastAPI  
+- simulação de operações bancárias  
 
 ---
 
@@ -117,5 +130,5 @@ Universidade de Fortaleza — UNIFOR
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a">LinkedIn</a><br>
-Email: <strong>cfilipemadeira@gmail.com</strong>
+cfilipemadeira@gmail.com
 </p>
