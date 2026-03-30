@@ -1,132 +1,155 @@
-<h1 align="center">Filipe Madeira</h1>
-
-<p align="center">
+<h1 align="center">Filipe Madeira</h1><p align="center">
 <strong>Data Analyst | Python | SQL | Estatística Aplicada</strong>
-</p>
+</p><p align="center">
+Transformo dados em decisões estratégicas por meio de análise exploratória, inferência estatística e geração de insights acionáveis.
+</p>---
 
-<p align="center">
-Transformando dados em insights por meio de análise exploratória, inferência estatística e suporte à tomada de decisão.
-</p>
+Sobre mim
 
----
+Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR) e atuo com análise de dados aplicada a problemas de negócio.
 
-## Sobre mim
+Tenho experiência prática em:
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR)** e atuo com **análise de dados utilizando Python, SQL e visualização de dados**.
+- exploração, limpeza e transformação de dados reais
+- aplicação de testes de hipótese e inferência estatística
+- identificação de padrões e geração de insights acionáveis
+- construção de dashboards interativos para apoio à decisão
+- estruturação de projetos com boas práticas
 
-Tenho experiência prática no desenvolvimento de projetos que envolvem:
+Meu foco é responder perguntas como:
 
-- exploração e tratamento de dados reais  
-- aplicação de **testes de hipótese e inferência estatística**  
-- construção de **dashboards interativos**  
-- geração de insights para suporte à decisão  
-- organização de código com boas práticas  
-
-Meu foco é utilizar dados para **validar hipóteses, medir impacto e apoiar decisões estratégicas**.
-
----
-
-## Stack Técnica
-
-**Linguagens e Manipulação de Dados**  
-Python, SQL, Pandas, NumPy  
-
-**Análise e Estatística**  
-Testes de hipótese, inferência estatística, intervalos de confiança, análise exploratória (EDA)  
-
-**Visualização de Dados**  
-Matplotlib, Seaborn, Plotly, Dash  
-
-**Ferramentas e Backend**  
-Git, FastAPI  
+- O que está acontecendo nos dados?
+- Por que isso está acontecendo?
+- O que devemos fazer com base nisso?
 
 ---
 
-## Tecnologias
+Stack Técnica
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Linguagens e Manipulação de Dados
+Python, SQL, Pandas, NumPy
 
----
+Análise e Estatística
+Testes de hipótese, inferência estatística, intervalos de confiança, EDA
 
-## Projetos em Destaque
+Visualização de Dados
+Plotly, Dash, Matplotlib, Seaborn
 
-### Análise de Satisfação com Teste de Hipóteses  
-🔗 https://github.com/FilipeMadeira13/analise-satisfacao-teste-hipoteses  
-
-Análise estatística aplicada para avaliar o impacto de mudanças na experiência do cliente.
-
-**Destaques:**
-- teste t pareado para comparação de cenários  
-- interpretação de p-valor e intervalos de confiança  
-- cálculo de effect size  
-- suporte à tomada de decisão baseada em dados  
+Ferramentas e Backend
+Git, FastAPI
 
 ---
 
-### Dashboard de Vendas com Dash & Plotly  
-🔗 https://github.com/FilipeMadeira13/dashboard_de_vendas_com_dash_-_plotly  
+Projetos em Destaque
 
-Dashboard interativo para análise de desempenho de vendas.
+📊 Análise de Satisfação com Teste de Hipóteses
 
-**Destaques:**
-- visualizações interativas com filtros dinâmicos  
-- exploração de dados por região, produto e período  
-- apoio à análise gerencial  
+🔗 https://github.com/FilipeMadeira13/analise-satisfacao-teste-hipoteses
 
----
+Problema: Avaliar se mudanças na experiência do cliente impactaram a satisfação.
 
-### Análise de Produtos – E-commerce Olist  
-🔗 https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist  
+Análise realizada:
 
-Projeto com dados reais envolvendo limpeza, transformação e análise de dados de e-commerce.
+- teste t pareado para comparação de cenários
+- interpretação de p-valor e intervalos de confiança
+- cálculo de effect size
 
-**Destaques:**
-- data wrangling com dados complexos  
-- integração de múltiplas fontes  
-- criação de métricas de negócio  
+Insights:
 
----
+- evidência estatística de mudança significativa na satisfação
+- mensuração do impacto da alteração implementada
 
-### Análise do PIB e Indicadores Educacionais  
-🔗 https://github.com/FilipeMadeira13/Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil  
+Valor de negócio:
 
-Exploração de dados econômicos com foco em distribuição e relação com indicadores educacionais.
+- suporte objetivo à tomada de decisão baseada em dados
 
 ---
 
-### Análise de Avaliações Musicais (Rate Your Music)  
-🔗 https://github.com/FilipeMadeira13/exploring_rym_database  
+📈 Dashboard de Vendas com Dash & Plotly
 
-Análise de padrões de avaliação e comportamento de usuários em datasets musicais.
+🔗 https://github.com/FilipeMadeira13/dashboard_de_vendas_com_dash_-_plotly
 
----
+Problema: Monitorar e analisar o desempenho de vendas.
 
-### API Bancária com FastAPI  
-🔗 https://github.com/FilipeMadeira13/api-bancaria-fastapi  
+Solução:
 
-API backend simulando operações bancárias com foco em organização e arquitetura.
+- dashboard interativo com filtros dinâmicos
+- análise por região, produto e período
 
-**Destaques:**
-- estruturação de projeto em camadas  
-- desenvolvimento de endpoints com FastAPI  
-- simulação de operações bancárias  
+Insights:
 
----
-
-## Formação
-
-**Análise e Desenvolvimento de Sistemas**  
-Universidade de Fortaleza — UNIFOR  
+- identificação de padrões de desempenho
+- suporte à análise gerencial
 
 ---
 
-## Contato
+🛒 Análise de Produtos – E-commerce Olist
+
+🔗 https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist
+
+Problema: Entender desempenho e comportamento de produtos em e-commerce.
+
+Análise realizada:
+
+- limpeza e transformação de dados complexos
+- integração de múltiplas fontes
+
+Insights:
+
+- identificação de categorias com melhor desempenho
+- análise de padrões de vendas e receita
+
+---
+
+📊 Análise do PIB e Indicadores Educacionais
+
+🔗 https://github.com/FilipeMadeira13/Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil
+
+Problema: Investigar a relação entre fatores econômicos e educacionais.
+
+Insights:
+
+- análise da distribuição regional
+- identificação de padrões e possíveis correlações
+
+---
+
+🎵 Análise de Avaliações Musicais (Rate Your Music)
+
+🔗 https://github.com/FilipeMadeira13/exploring_rym_database
+
+Problema: Entender padrões de avaliação e comportamento de usuários.
+
+Insights:
+
+- identificação de tendências de avaliação
+- análise de distribuição de notas
+
+---
+
+🏦 API Bancária com FastAPI
+
+🔗 https://github.com/FilipeMadeira13/api-bancaria-fastapi
+
+Objetivo: Simular operações bancárias com foco em arquitetura e organização.
+
+Destaques:
+
+- estruturação em camadas (Clean Architecture)
+- criação de endpoints REST
+- organização e boas práticas de backend
+
+---
+
+Diferenciais
+
+- Aplicação prática de estatística em problemas reais
+- Foco em geração de insights e tomada de decisão
+- Capacidade de traduzir dados em valor de negócio
+
+---
+
+Contato
 
 <p align="center">
 <a href="https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a">LinkedIn</a><br>
