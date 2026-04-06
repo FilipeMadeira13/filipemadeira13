@@ -1,167 +1,127 @@
 <h1 align="center">Filipe Madeira</h1>
 
 <p align="center">
-<strong>Data Analyst | Python | SQL | Estatística Aplicada</strong>
+  <strong>Data Analyst · Python · SQL · Estatística Aplicada</strong>
 </p>
 
 <p align="center">
-Transformo dados em decisões estratégicas por meio de análise exploratória, inferência estatística e geração de insights acionáveis.
+  Transformo dados em decisões estratégicas por meio de análise exploratória,<br>
+  inferência estatística e geração de insights acionáveis.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a">LinkedIn</a> ·
+  <a href="mailto:cfilipemadeira@gmail.com">cfilipemadeira@gmail.com</a>
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR) e atuo com análise de dados aplicada a problemas de negócio.
+Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR), atuo com análise de dados aplicada a problemas reais de negócio.
 
-Tenho experiência prática em:
+Meu foco é responder três perguntas fundamentais:
 
-* exploração, limpeza e transformação de dados reais
-* aplicação de testes de hipótese e inferência estatística
-* identificação de padrões e geração de insights acionáveis
-* construção de dashboards interativos para apoio à decisão
-* estruturação de projetos com boas práticas
+> **O que está acontecendo nos dados? Por que está acontecendo? O que devemos fazer com base nisso?**
 
-Meu foco é responder perguntas como:
-
-* O que está acontecendo nos dados?
-* Por que isso está acontecendo?
-* O que devemos fazer com base nisso?
+Tenho experiência prática em exploração, limpeza e transformação de dados, aplicação de testes de hipótese e inferência estatística, construção de dashboards interativos e estruturação de pipelines de dados com boas práticas.
 
 ---
 
 ## Stack Técnica
 
-### Linguagens e Manipulação de Dados
-
-Python, SQL, Pandas, NumPy
-
-### Análise e Estatística
-
-Testes de hipótese, inferência estatística, intervalos de confiança, EDA
-
-### Visualização de Dados
-
-Plotly, Dash, Matplotlib, Seaborn
-
-### Ferramentas e Backend
-
-Git, FastAPI
+| Área | Tecnologias |
+|---|---|
+| Linguagens | Python, SQL |
+| Manipulação de Dados | Pandas, NumPy |
+| Análise Estatística | SciPy, testes de hipótese, inferência, EDA |
+| Visualização | Plotly, Dash, Matplotlib, Seaborn |
+| Banco de Dados | SQLite, SQLModel, Alembic |
+| Backend | FastAPI |
+| Ferramentas | Git, Jupyter Notebook |
 
 ---
 
 ## Projetos em Destaque
 
-### 📊 Análise de Satisfação com Teste de Hipóteses
+### 📉 Customer Churn Analysis
+🔗 [churn-analysis-project](https://github.com/FilipeMadeira13/churn-analysis-project)
 
-🔗 https://github.com/FilipeMadeira13/analise-satisfacao-teste-hipoteses
+Análise dos fatores que levam clientes de uma empresa de telecomunicações a cancelar seus serviços.
 
-Problema: Avaliar se mudanças na experiência do cliente impactaram a satisfação.
+- Pipeline completo: ingestão → limpeza → armazenamento em SQLite → análise
+- Queries SQL analíticas sobre contrato, tenure, serviços e método de pagamento
+- Identificação de perfis de alto risco e recomendações de retenção
 
-Análise realizada:
-
-* teste t pareado para comparação de cenários
-* interpretação de p-valor e intervalos de confiança
-* cálculo de effect size
-
-Insights:
-
-* evidência estatística de mudança significativa na satisfação
-* mensuração do impacto da alteração implementada
-
-Valor de negócio:
-
-* suporte objetivo à tomada de decisão baseada em dados
-
----
-
-### 📈 Dashboard de Vendas com Dash & Plotly
-
-🔗 https://github.com/FilipeMadeira13/dashboard_de_vendas_com_dash_-_plotly
-
-Problema: Monitorar e analisar o desempenho de vendas.
-
-Solução:
-
-* dashboard interativo com filtros dinâmicos
-* análise por região, produto e período
-
-Insights:
-
-* identificação de padrões de desempenho
-* suporte à análise gerencial
-
----
-
-### 🛒 Análise de Produtos – E-commerce Olist
-
-🔗 https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist
-
-Problema: Entender desempenho e comportamento de produtos em e-commerce.
-
-Análise realizada:
-
-* limpeza e transformação de dados complexos
-* integração de múltiplas fontes
-
-Insights:
-
-* identificação de categorias com melhor desempenho
-* análise de padrões de vendas e receita
-
----
-
-### 📊 Análise do PIB e Indicadores Educacionais
-
-🔗 https://github.com/FilipeMadeira13/Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil
-
-Problema: Investigar a relação entre fatores econômicos e educacionais.
-
-Insights:
-
-* análise da distribuição regional
-* identificação de padrões e possíveis correlações
-
----
-
-### 🎵 Análise de Avaliações Musicais (Rate Your Music)
-
-🔗 https://github.com/FilipeMadeira13/exploring_rym_database
-
-Problema: Entender padrões de avaliação e comportamento de usuários.
-
-Insights:
-
-* identificação de tendências de avaliação
-* análise de distribuição de notas
+**Stack:** Python · SQL · SQLite · Pandas · Jupyter
 
 ---
 
 ### 🏦 API Bancária com FastAPI
+🔗 [api-bancaria-fastapi](https://github.com/FilipeMadeira13/api-bancaria-fastapi)
 
-🔗 https://github.com/FilipeMadeira13/api-bancaria-fastapi
+API RESTful assíncrona para gerenciamento de contas bancárias, transações e extratos.
 
-Objetivo: Simular operações bancárias com foco em arquitetura e organização.
+- Autenticação JWT, endpoints protegidos e banco SQLite assíncrono (aiosqlite)
+- Arquitetura em camadas (Clean Architecture) com `core`, `domain`, `infra` e `routers`
+- Testes automatizados com `pytest` e `httpx`, migrações com Alembic
 
-Destaques:
-
-* estruturação em camadas (Clean Architecture)
-* criação de endpoints REST
-* organização e boas práticas de backend
+**Stack:** Python · FastAPI · SQLModel · Alembic · Pytest
 
 ---
 
-## Diferenciais
+### 📊 Análise de Satisfação com Teste de Hipóteses
+🔗 [analise-satisfacao-teste-hipoteses](https://github.com/FilipeMadeira13/analise-satisfacao-teste-hipoteses)
 
-* Aplicação prática de estatística em problemas reais
-* Foco em geração de insights e tomada de decisão
-* Capacidade de traduzir dados em valor de negócio
+Avaliação estatística do impacto de uma mudança de layout na satisfação de clientes de uma academia.
+
+- Teste t pareado com validação de normalidade via Shapiro-Wilk
+- p-valor < 0.05 e intervalo de confiança (0.25, 1.04) — evidência de melhora significativa
+- Tradução dos resultados em recomendação objetiva de negócio
+
+**Stack:** Python · SciPy · Pandas · Matplotlib · Seaborn
+
+---
+
+### 📈 Dashboard de Vendas com Dash & Plotly
+🔗 [dashboard-de-vendas-dash-plotly](https://github.com/FilipeMadeira13/dashboard_de_vendas_com_dash_-_plotly)
+
+Dashboard interativo para monitoramento e análise de desempenho de vendas.
+
+- Filtros dinâmicos por região, produto e período
+- Visualizações orientadas à análise gerencial e tomada de decisão
+
+**Stack:** Python · Dash · Plotly
+
+---
+
+### 🛒 Análise de Produtos – E-commerce Olist
+🔗 [analise-de-produtos-e-commerce-olist](https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist)
+
+Análise de desempenho de produtos no maior dataset público de e-commerce brasileiro.
+
+- Integração e limpeza de múltiplas tabelas do dataset Olist
+- Identificação de categorias com melhor desempenho e padrões de receita
+
+**Stack:** Python · Pandas · Matplotlib · Seaborn · Jupyter
+
+---
+
+### 🗺️ Análise do PIB e Indicadores Educacionais no Brasil
+🔗 [Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil](https://github.com/FilipeMadeira13/Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil)
+
+Investigação da relação entre distribuição regional do PIB e indicadores educacionais brasileiros.
+
+- Análise de distribuição regional e identificação de padrões e correlações
+- Cruzamento de variáveis econômicas e educacionais por estado
+
+**Stack:** Python · Pandas · Matplotlib · Jupyter
 
 ---
 
 ## Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a">LinkedIn</a><br>
-cfilipemadeira@gmail.com
+  <a href="https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a">LinkedIn</a> ·
+  <a href="mailto:cfilipemadeira@gmail.com">cfilipemadeira@gmail.com</a>
 </p>
