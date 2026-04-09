@@ -95,18 +95,6 @@ Análise de desempenho de produtos no maior dataset público de e-commerce brasi
 
 ---
 
-### 🗺️ Análise do PIB e Indicadores Educacionais no Brasil
-🔗 [Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil](https://github.com/FilipeMadeira13/Analise-da-Distribuicao-do-PIB-e-Indicadores-Educacionais-no-Brasil)
-
-Investigação da relação entre distribuição regional do PIB e indicadores educacionais brasileiros.
-
-- Análise de distribuição regional e identificação de padrões e correlações
-- Cruzamento de variáveis econômicas e educacionais por estado
-
-**Stack:** Python · Pandas · Matplotlib · Jupyter
-
----
-
 ## Contato
 
 <p align="center">
