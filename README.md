@@ -83,18 +83,6 @@ Avaliação estatística do impacto de uma mudança de layout na satisfação de
 
 ---
 
-### 📈 Dashboard de Vendas com Dash & Plotly
-🔗 [dashboard-de-vendas-dash-plotly](https://github.com/FilipeMadeira13/dashboard_de_vendas_com_dash_-_plotly)
-
-Dashboard interativo para monitoramento e análise de desempenho de vendas.
-
-- Filtros dinâmicos por região, produto e período
-- Visualizações orientadas à análise gerencial e tomada de decisão
-
-**Stack:** Python · Dash · Plotly
-
----
-
 ### 🛒 Análise de Produtos – E-commerce Olist
 🔗 [analise-de-produtos-e-commerce-olist](https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist)
 
