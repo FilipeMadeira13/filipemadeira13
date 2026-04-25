@@ -56,6 +56,19 @@ Análise dos fatores que levam clientes de uma empresa de telecomunicações a c
 **Stack:** Python · SQL · SQLite · Pandas · Jupyter
 
 ---
+### 📊 Dashboard de Vendas com Streamlit
+
+🔗 [dashboard-streamlit-vendas](https://github.com/FilipeMadeira13/dashboard_streamlit.git)
+
+Aplicação web interativa para análise de dados de vendas, com foco em visualização de métricas e exploração dinâmica de dados.
+
+- Dashboard interativo com navegação entre páginas e visualização de dados brutos
+- Filtros e exploração dinâmica para análise de métricas de vendas
+- Deploy em ambiente web para acesso público e compartilhamento de insights
+
+**Stack:** Python · Streamlit · Pandas
+
+---
 
 ### 🏦 API Bancária com FastAPI
 🔗 [api-bancaria-fastapi](https://github.com/FilipeMadeira13/api-bancaria-fastapi)
