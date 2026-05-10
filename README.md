@@ -1,12 +1,11 @@
 <h1 align="center">Filipe Madeira</h1>
 
 <p align="center">
-  <strong>Data Analyst · Python · SQL · Estatística Aplicada</strong>
+  <strong>Data Analyst · Machine Learning · Python · SQL</strong>
 </p>
 
 <p align="center">
-  Transformo dados em decisões estratégicas por meio de análise exploratória,<br>
-  inferência estatística e construção de soluções orientadas a dados.
+  Transformo dados em decisões de negócio através de análise, estatística e modelos preditivos.
 </p>
 
 <p align="center">
@@ -14,33 +13,29 @@
   <a href="mailto:cfilipemadeira@gmail.com">cfilipemadeira@gmail.com</a>
 </p>
 
----
-
 ## Sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR), atuo com análise de dados aplicada a problemas reais de negócio.
+Sou Data Analyst com formação em Análise e Desenvolvimento de Sistemas pela UNIFOR, atuando na resolução de problemas reais de negócio com dados.
 
-Meu trabalho é guiado por três perguntas fundamentais:
+Minha abordagem é guiada por três perguntas:
 
-> **O que está acontecendo nos dados? Por que está acontecendo? O que devemos fazer com base nisso?**
+> **O que está acontecendo? Por que está acontecendo? O que devemos fazer?**
 
-Tenho experiência em:
-- exploração, limpeza e transformação de dados  
-- aplicação de testes de hipótese e inferência estatística  
-- construção de dashboards interativos  
-- desenvolvimento de pipelines com boas práticas  
-
----
+Tenho foco em:
+- análise exploratória e geração de insights acionáveis  
+- aplicação prática de estatística e testes de hipótese  
+- construção de modelos preditivos (Machine Learning)  
+- desenvolvimento de soluções completas (dados → decisão)
 
 ## Stack Técnica
 
 | Área | Tecnologias |
 |---|---|
 | Linguagens | Python, SQL |
-| Manipulação de Dados | Pandas, NumPy |
-| Análise Estatística | SciPy, testes de hipótese, inferência, EDA |
+| Data & ML | Pandas, NumPy, Scikit-learn |
+| Estatística | SciPy, testes de hipótese, inferência |
 | Visualização | Plotly, Dash, Matplotlib, Seaborn |
-| Banco de Dados | SQLite, SQLModel, Alembic |
+| Banco de Dados | SQLite, SQLModel |
 | Backend | FastAPI |
 | Ferramentas | Git, Jupyter Notebook |
 
@@ -60,6 +55,21 @@ Dashboard interativo para análise de dados musicais utilizando a API do Last.fm
 - Exportação de dados para CSV
 
 **Stack:** Python · Streamlit · Pandas · Plotly · API REST
+
+---
+
+### 🤖 Churn Prediction  
+🔗 [churn-prediction](https://github.com/FilipeMadeira13/churn_prediction)
+
+Projeto de machine learning para previsão de churn de clientes, com pipeline completo e foco em reprodutibilidade.
+
+- Pipeline end-to-end: limpeza → pré-processamento → modelagem → avaliação  
+- Treinamento de modelos de classificação (árvore de decisão)  
+- Comparação de abordagens com encoding categórico (one-hot)  
+- Validação e testes de inferência do modelo  
+- Execução automatizada de notebooks  
+
+**Stack:** Python · Pandas · Scikit-learn · SciPy · Matplotlib · Jupyter  
 
 ---
 
@@ -115,24 +125,12 @@ Avaliação estatística do impacto de uma mudança de layout na satisfação de
 
 ---
 
-### 🛒 Análise de Produtos – E-commerce Olist
-🔗 [analise-de-produtos-e-commerce-olist](https://github.com/FilipeMadeira13/analise-de-produtos-e-commerce-olist)
-
-Análise de desempenho de produtos em dataset de e-commerce.
-
-- Integração e limpeza de múltiplas tabelas
-- Identificação de categorias e padrões de receita
-
-**Stack:** Python · Pandas · Matplotlib · Seaborn · Jupyter
-
----
-
 ## Diferenciais
 
-- Foco em tradução de dados em decisão de negócio  
-- Aplicação prática de estatística em cenários reais  
-- Construção de soluções completas (dados → análise → visualização)  
-- Código organizado e orientado a boas práticas  
+- Foco em impacto de negócio, não apenas análise  
+- Aplicação prática de estatística e machine learning  
+- Construção de pipelines completos e reproduzíveis  
+- Organização de código e boas práticas de engenharia
 
 ---
 
