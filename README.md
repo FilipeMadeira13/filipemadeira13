@@ -61,15 +61,15 @@ Dashboard interativo para análise de dados musicais utilizando a API do Last.fm
 ### 🤖 Churn Prediction  
 🔗 [churn-prediction](https://github.com/FilipeMadeira13/churn_prediction)
 
-Projeto de machine learning para previsão de churn de clientes, com pipeline completo e foco em reprodutibilidade.
+Projeto de análise e modelagem para previsão de churn de clientes usando aprendizado de máquina em Python.
 
-- Pipeline end-to-end: limpeza → pré-processamento → modelagem → avaliação  
-- Treinamento de modelos de classificação (árvore de decisão)  
-- Comparação de abordagens com encoding categórico (one-hot)  
-- Validação e testes de inferência do modelo  
-- Execução automatizada de notebooks  
+- Carregar e limpar os dados de churn  
+- Codificar variáveis categóricas  
+- Treinar e avaliar modelos de classificação
+- Aplicar validação cruzada e técnicas de balanceamento de classes
+- Exportar modelos e pipelines para inferência
 
-**Stack:** Python · Pandas · Scikit-learn · SciPy · Matplotlib · Jupyter  
+**Stack:** Python · Pandas · Scikit-learn · SciPy · Matplotlib · Jupyter · Imbalanced-learn
 
 ---
 
