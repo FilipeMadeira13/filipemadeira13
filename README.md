@@ -5,11 +5,6 @@
   <strong>Data Analyst · Machine Learning · Python · SQL</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a">LinkedIn</a> ·
-  <a href="mailto:cfilipemadeira@gmail.com">cfilipemadeira@gmail.com</a>
-</p>
-
 Desenvolvedor back-end em Python com formação em Análise e Desenvolvimento de Sistemas pela UNIFOR e base sólida em dados e machine learning. Atualmente em transição de carreira, focado em construir APIs robustas e soluções orientadas a dados.
 
 ## 🚀 Sobre mim
