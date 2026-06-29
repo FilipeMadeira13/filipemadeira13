@@ -51,11 +51,11 @@ Desenvolvedor back-end em Python com formação em Análise e Desenvolvimento de
 ---
  
 ## 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMadeira13)](https://github.com/anuraghazra/github-readme-stats)
  
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FilipeMadeira13&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMadeira13&layout=compact&theme=tokyonight" />
-</div>
+
+---
 
 ## Projetos em Destaque
 
