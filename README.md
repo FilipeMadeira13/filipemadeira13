@@ -49,6 +49,13 @@ Desenvolvedor back-end em Python com formação em Análise e Desenvolvimento de
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</div>
 
 ## Projetos em Destaque
 
