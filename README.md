@@ -1,4 +1,4 @@
-<h1 align="center">Filipe Madeira!</h1>
+<h1 align="center">Filipe Madeira</h1>
 <h2 align="center">Bem vindo ao meu perfil GitHub 👋</h2>
 
 <p align="center">
