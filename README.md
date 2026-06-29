@@ -143,9 +143,7 @@ Avaliação estatística do impacto de uma mudança de layout na satisfação de
 
 ---
 
-## Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a">LinkedIn</a> ·
-  <a href="mailto:cfilipemadeira@gmail.com">cfilipemadeira@gmail.com</a>
-</p>
+## 📫 Contato
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-filipe-madeira-de-souza-16211922a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfilipemadeira@gmail.com)
