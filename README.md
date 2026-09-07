@@ -1,18 +1,16 @@
 <h1 align="center">Filipe Madeira</h1>
 <h2 align="center">Bem vindo ao meu perfil GitHub 👋</h2>
-
 <p align="center">
-  <strong>Data Analyst · Machine Learning · Python · SQL</strong>
+  <strong>Back-end Developer · Python · APIs REST · SQL</strong>
 </p>
-
-Desenvolvedor back-end em Python com formação em Análise e Desenvolvimento de Sistemas pela UNIFOR e base sólida em dados e machine learning. Atualmente em transição de carreira, focado em construir APIs robustas e soluções orientadas a dados.
-
+Desenvolvedor back-end em Python com formação em Análise e Desenvolvimento de Sistemas pela UNIFOR. Atualmente focado em construir APIs robustas, arquiteturas de dados e soluções escaláveis, com uma base sólida em análise de dados e machine learning que uso a favor de soluções orientadas a dados.
+ 
 ## 🚀 Sobre mim
  
+- 🐍 Desenvolvedor back-end em **Python**, com foco em **APIs REST** e arquitetura de dados
+- 📊 Bagagem sólida em análise de dados, estatística e machine learning, aplicada a soluções orientadas a dados
+- 🔍 Interessado em pipelines de dados, escalabilidade e boas práticas de arquitetura de software
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — UNIFOR
-- 🐍 Migrando para **desenvolvimento back-end com Python**
-- 📊 Background em **análise de dados**, estatística e machine learning
-- 🔍 Interessado em **APIs REST**, pipelines de dados e soluções escaláveis
 - 📍 Fortaleza, CE — Brasil
 
 ## 🛠️ Stack Técnica
